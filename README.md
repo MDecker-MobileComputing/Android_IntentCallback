@@ -6,7 +6,7 @@ Simple (native) Android app with three activites to demonstrate usage of intents
 
 <br>
 
-**!!! App is incomplete, must be completed as practice. !!!**
+**!!! App is incomplete, must be completed as practice !!!**
 
 <br>
 

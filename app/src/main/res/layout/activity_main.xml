@@ -4,11 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center_vertical"
     android:orientation="vertical"
     android:layout_marginLeft="5dp"
     android:layout_marginRight="5dp"
     tools:context="de.mide.intentcallback.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="65dp"
+        android:text="@string/title_activity_main"
+        android:gravity="center_horizontal"
+        android:textSize="30dp"
+        android:textStyle="bold" />
 
 
     <Button android:id="@+id/button_gehe_zu_activity_a"
