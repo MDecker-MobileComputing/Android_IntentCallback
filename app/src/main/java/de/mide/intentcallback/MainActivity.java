@@ -7,7 +7,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * MainActivity kann zwei weitere Activities (Activity A & Activity B)
@@ -16,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
  *
  * This project is licensed under the terms of the BSD 3-Clause License.
  */
-public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+public class MainActivity extends Activity implements View.OnClickListener {
 
     private Button _zuActivity2Button = null;
     private Button _zuActivity3Button = null;
