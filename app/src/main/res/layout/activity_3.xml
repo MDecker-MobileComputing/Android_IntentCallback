@@ -10,6 +10,15 @@
     android:layout_marginRight="5dp"
     tools:context="de.mide.intentcallback.Activity3">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:text="@string/title_activity_3"
+        android:gravity="center_horizontal"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
     <Button
         android:id="@+id/zurueckButtonAufActivity3"
         android:layout_width="match_parent"
