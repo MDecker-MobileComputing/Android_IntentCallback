@@ -1,5 +1,6 @@
 package de.mide.intentcallback;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -14,15 +15,13 @@ import androidx.appcompat.app.AppCompatActivity;
  *
  * This project is licensed under the terms of the BSD 3-Clause License.
  */
-public class Activity3 extends AppCompatActivity implements OnClickListener {
+public class Activity3 extends Activity implements OnClickListener {
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
 
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_3);
-
-            setTitle(R.string.title_activity_3);
 
             Button zurueckButton = findViewById(R.id.zurueckButtonAufActivity3);
             zurueckButton.setOnClickListener(this);

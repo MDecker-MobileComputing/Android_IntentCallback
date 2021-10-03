@@ -1,5 +1,6 @@
 package de.mide.intentcallback;
 
+import android.app.Activity;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -14,15 +15,13 @@ import android.widget.Button;
  *
  * This project is licensed under the terms of the BSD 3-Clause License.
  */
-public class Activity2 extends AppCompatActivity implements OnClickListener  {
+public class Activity2 extends Activity implements OnClickListener  {
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
 
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_2);
-
-            setTitle(R.string.title_activity_2);
 
             Button zurueckButton = findViewById(R.id.zurueckButtonAufActivity2);
             zurueckButton.setOnClickListener(this);
