@@ -5,6 +5,9 @@
     <string name="button_zu_activity_a">Gehe zu Activity A</string>
     <string name="button_zu_activity_b">Gehe zu Activity B</string>
 
+    <string name="button_zurueck_main">Zurück zur Main-Activity</string>
+
+    <string name="title_activity_main">Haupt-Activity</string>
     <string name="title_activity_2">Activity 2</string>
     <string name="title_activity_3">Activity 3</string>
 

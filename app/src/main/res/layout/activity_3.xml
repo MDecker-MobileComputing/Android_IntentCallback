@@ -8,12 +8,12 @@
     android:orientation="vertical"
     android:layout_marginLeft="5dp"
     android:layout_marginRight="5dp"
-    tools:context="de.mide.intentcallback.Activity2">
+    tools:context="de.mide.intentcallback.Activity3">
 
     <Button
-        android:id="@+id/zurueckButtonAufActivity2"
+        android:id="@+id/zurueckButtonAufActivity3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button_zurueck_main" />
+        android:text="@string/title_activity_2" />
 
 </LinearLayout>
