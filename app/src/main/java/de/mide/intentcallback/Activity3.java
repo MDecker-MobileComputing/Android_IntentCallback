@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * Activity 3, die mit einem expliziten Intent angesprungen wird.
- * <br/><br/>
+ * <br><br>
  *
  * This project is licensed under the terms of the BSD 3-Clause License.
  */

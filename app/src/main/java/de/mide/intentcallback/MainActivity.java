@@ -11,7 +11,7 @@ import android.widget.Button;
 /**
  * MainActivity kann zwei weitere Activities (Activity A & Activity B)
  * aufrufen und unterscheiden, welche davon beendet wurde.
- * <br/><br/>
+ * <br><br>
  *
  * This project is licensed under the terms of the BSD 3-Clause License.
  */

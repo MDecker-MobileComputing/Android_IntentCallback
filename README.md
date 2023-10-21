@@ -2,7 +2,8 @@
 
 <br>
 
-Simple (native) Android app with three activites to demonstrate usage of intents to navigate between the activites of an app.
+Simple (native) Android app with three activites to demonstrate usage of intents to navigate between 
+the activites of an app.
 
 <br>
 
@@ -26,4 +27,8 @@ Simple (native) Android app with three activites to demonstrate usage of intents
 
 ## License ##
 
+<br>
+
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License).
+
+<br>
