@@ -1,13 +1,13 @@
-# Android App "Intent-Callback" #
+# Android-App "Intent-Callback" #
 
 <br>
 
-Simple (native) Android app with three activites to demonstrate usage of intents to navigate between 
-the activites of an app.
+Dieses Repository enthält ein Android-Studio-Projekt für eine native Android-App mit Java, die
+drei Activities enthält.
 
 <br>
 
-**!!! App is incomplete, must be completed as practice !!!**
+**!!! Der Quellcode ist unvollständig, muss als Übung vervollständig werden !!!**
 
 <br>
 
@@ -17,7 +17,7 @@ the activites of an app.
 
 <br>
 
-![Screenshot 1](screenshot_1.png) 
+![Screenshot 1](screenshot_1.png)
 
 ![Screenshot 1](screenshot_2.png) &nbsp;&nbsp;  ![Screenshot 3](screenshot_3.png)
 
