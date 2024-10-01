@@ -39,6 +39,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         _zuActivity3Button.setOnClickListener(this);
     }
 
+
     /**
      * Event-Handler-Methode für die beiden Buttons.
      *

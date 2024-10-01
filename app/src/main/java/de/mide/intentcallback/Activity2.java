@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+
 /**
  * Activity 2, die mit einem expliziten Intent angesprungen wird.
  * <br><br>
@@ -17,24 +18,25 @@ import android.widget.Button;
  */
 public class Activity2 extends Activity implements OnClickListener  {
 
-        @Override
-        protected void onCreate(Bundle savedInstanceState) {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
 
-            super.onCreate(savedInstanceState);
-            setContentView(R.layout.activity_2);
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_2);
 
-            Button zurueckButton = findViewById(R.id.zurueckButtonAufActivity2);
-            zurueckButton.setOnClickListener(this);
-        }
+        Button zurueckButton = findViewById(R.id.zurueckButtonAufActivity2);
+        zurueckButton.setOnClickListener(this);
+    }
 
-        /**
-         * Button-Event-Handler für Zurücksprung zur Main-Activity.
-         */
-        @Override
-        public void onClick(View view) {
 
-            Log.i("Intent-Callback",
-                    "Springe jetzt von Activity2 zurück zur MainActivity zurück.");
-        }
+    /**
+     * Button-Event-Handler für Zurücksprung zur Main-Activity.
+     */
+    @Override
+    public void onClick(View view) {
+
+        Log.i("Intent-Callback",
+                "Springe jetzt von Activity2 zurück zur MainActivity zurück.");
+    }
 
 }
