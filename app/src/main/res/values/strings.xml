@@ -8,7 +8,7 @@
     <string name="button_zurueck_main">Zurück zur Main-Activity</string>
 
     <string name="title_activity_main">Haupt-Activity</string>
-    <string name="title_activity_2">Activity 2</string>
-    <string name="title_activity_3">Activity 3</string>
+    <string name="title_activity_2">Activity A</string>
+    <string name="title_activity_3">Activity B</string>
 
 </resources>
