@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Intent Callback"
+rootProject.name = "Intent-Callback"
 include ':app'

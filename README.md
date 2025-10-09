@@ -7,7 +7,7 @@ drei Activities enthält.
 
 <br>
 
-**!!! Der Quellcode ist unvollständig, muss als Übung vervollständig werden !!!**
+**!!! Der Quellcode ist unvollständig und muss als Übung vervollständig werden !!!**
 
 <br>
 

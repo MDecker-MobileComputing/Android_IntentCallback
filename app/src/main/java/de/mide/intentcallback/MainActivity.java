@@ -59,7 +59,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
         } else {
 
-            Log.e("Intent-Callback",
+            Log.e( "Intent-Callback",
                     "Event-Handler-Methode für unerwartetes View-Element aufgerufen: " + view);
             return;
         }
