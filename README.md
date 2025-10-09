@@ -2,8 +2,8 @@
 
 <br>
 
-Dieses Repository enthält ein Android-Studio-Projekt für eine native Android-App mit Java, die
-drei Activities enthält.
+Dieses Repository enthält ein Android-Studio-Projekt für eine native Android-App mit Java,
+die drei Activities enthält.
 
 <br>
 
